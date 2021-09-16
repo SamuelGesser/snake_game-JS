@@ -1,0 +1,12 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: darkgreen;
+    background-image: url("img/bg-snake.jpg");
+    background-size: 1368px 620px;
+    background-repeat: no-repeat;
+}
